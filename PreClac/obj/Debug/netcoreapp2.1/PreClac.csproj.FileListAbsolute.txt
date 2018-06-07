@@ -1,0 +1,11 @@
+c:\users\owner\source\repos\PreClac\PreClac\obj\Debug\netcoreapp2.1\PreClac.csprojAssemblyReference.cache
+c:\users\owner\source\repos\PreClac\PreClac\obj\Debug\netcoreapp2.1\PreClac.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\PreClac\PreClac\obj\Debug\netcoreapp2.1\PreClac.AssemblyInfoInputs.cache
+c:\users\owner\source\repos\PreClac\PreClac\obj\Debug\netcoreapp2.1\PreClac.AssemblyInfo.cs
+c:\users\owner\source\repos\PreClac\PreClac\bin\Debug\netcoreapp2.1\PreClac.deps.json
+c:\users\owner\source\repos\PreClac\PreClac\bin\Debug\netcoreapp2.1\PreClac.runtimeconfig.json
+c:\users\owner\source\repos\PreClac\PreClac\bin\Debug\netcoreapp2.1\PreClac.runtimeconfig.dev.json
+c:\users\owner\source\repos\PreClac\PreClac\bin\Debug\netcoreapp2.1\PreClac.dll
+c:\users\owner\source\repos\PreClac\PreClac\bin\Debug\netcoreapp2.1\PreClac.pdb
+c:\users\owner\source\repos\PreClac\PreClac\obj\Debug\netcoreapp2.1\PreClac.dll
+c:\users\owner\source\repos\PreClac\PreClac\obj\Debug\netcoreapp2.1\PreClac.pdb

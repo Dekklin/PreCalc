@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreClac", "PreClac\PreClac.csproj", "{779251C7-032A-477E-8E58-B78F4E54443A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779251C7-032A-477E-8E58-B78F4E54443A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779251C7-032A-477E-8E58-B78F4E54443A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779251C7-032A-477E-8E58-B78F4E54443A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779251C7-032A-477E-8E58-B78F4E54443A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94D20EA-C282-438D-82B5-6FB5A0ADBBF3}
+	EndGlobalSection
+EndGlobal
